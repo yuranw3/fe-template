@@ -2,6 +2,7 @@
   "name": "{{projectName}}",
   "version": "{{projectVersion}}",
   "description": "{{projectDescription}}",
+  "BU": "{{projectBU}}",
   "author": "Forcs Zhang",
   "private": true,
   "scripts": {
