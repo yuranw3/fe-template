@@ -19,7 +19,9 @@
   },
   "dependencies": {
     {{#if isElement}}
-      "element-ui": "2.3.4",
+    "element-ui": "2.3.4",
+    {{else}}
+    "element-ui": "3.4.1",  
     {{/if}}
     "vue": "2.5.10",
     "vue-router": "3.0.1",
