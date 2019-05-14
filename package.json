@@ -18,7 +18,9 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "element-ui": "2.3.4",
+    {{#if isElement}}
+      "element-ui": "2.3.4",
+    {{/if}}
     "vue": "2.5.10",
     "vue-router": "3.0.1",
     "vuex": "3.0.1"
