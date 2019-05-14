@@ -1,6 +1,6 @@
 {
   "name": "{{name}}",
-  "version": "{{projectVersion}}",
+  "version": "{{version}}",
   "description": "{{desc}}",
   "BU": "{{bu}}",
   "author": "Forcs Zhang",
