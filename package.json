@@ -1,8 +1,8 @@
 {
-  "name": "{{projectName}}",
+  "name": "{{name}}",
   "version": "{{projectVersion}}",
-  "description": "{{projectDescription}}",
-  "BU": "{{projectBU}}",
+  "description": "{{desc}}",
+  "BU": "{{bu}}",
   "author": "Forcs Zhang",
   "private": true,
   "scripts": {
