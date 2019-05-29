@@ -1,7 +1,7 @@
 {
   "name": "{{name}}",
   "version": "{{version}}",
-  "description": "no description",
+  "description": "{{desc}}",
   "BU": "{{bu}}",
   "author": "Forcs Zhang",
   "private": true,
